@@ -25,6 +25,7 @@
         <site.plugin>3.21.0</site.plugin>
         <spotbugs.version>4.9.8</spotbugs.version>
         <spotbugs.plugin.version>4.9.8.2</spotbugs.plugin.version>
+        <sonar.organization>infom124-verification-et-validation</sonar.organization>
     </properties>
 
     <dependencies>
